@@ -2,18 +2,18 @@
 class:
 ---------
 **Node:**<br />
-A class that represents node data, object: id, pos, weight, tag and dict to edge in and dict to edge out.
-**Edge:**
-A class that represents edges data object: weight id1=src, id2=dest.
-**DiGraph:**
-A class that implements the interface GraphInterface, object: sizeNode, sizeEdge, listNode, listEdge, mc.
--function: *v_size:returns the number of nodes in this graph
-           *e_size:returns the number of edges in this graph
-           *get_all_v:return a dictionary of all the nodes in the Graph.
-           *all_in_edges_of_node: return a dictionary of all the nodes connected to (into) node_id.
-           *all_out_edges_of_node:return a dictionary of all the nodes connected from node_id.
-           *get_mc:returns the current version of this graph.
-           *add_edge:adds an edge to the graph.
+A class that represents node data, object: id, pos, weight, tag and dict to edge in and dict to edge out. <br />
+**Edge:** <br />
+A class that represents edges data object: weight id1=src, id2=dest. <br />
+**DiGraph:** <br />
+A class that implements the interface GraphInterface, object: sizeNode, sizeEdge, listNode, listEdge, mc. <br />
+-function: *v_size:returns the number of nodes in this graph <br />
+           *e_size:returns the number of edges in this graph <br />
+           *get_all_v:return a dictionary of all the nodes in the Graph. <br />
+           *all_in_edges_of_node: return a dictionary of all the nodes connected to (into) node_id. <br />
+           *all_out_edges_of_node:return a dictionary of all the nodes connected from node_id. <br />
+           *get_mc:returns the current version of this graph. <br />
+           *add_edge:adds an edge to the graph. <br />
            *add_node:adds a node to the graph.
            *def remove_node:removes a node from the graph.
            *remove_edge:removes an edge from the graph.
