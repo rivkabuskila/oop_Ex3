@@ -1,7 +1,7 @@
 # oop_Ex3#
 class:
 ---------
-**Node:**
+**Node:**<br />
 A class that represents node data, object: id, pos, weight, tag and dict to edge in and dict to edge out.
 **Edge:**
 A class that represents edges data object: weight id1=src, id2=dest.
