@@ -61,6 +61,10 @@ After we ran check2:
 <br />
 ![image](https://user-images.githubusercontent.com/93676748/147505237-e5ad860d-8ad4-43af-9ca1-eaebec42e473.png)
 
+UML
+-----
+https://github.com/rivkabuskila/oop_Ex3/blob/main/UML.png
+
 
 
 
