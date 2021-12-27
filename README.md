@@ -34,7 +34,6 @@ A class that implements the interface GraphAlgoInterface, object: DiGraph Graph.
    This function we used a Dijkstra We sent each a node to Dijkstra and checked what the maximum distance is for each nodes and we checked if this distance is the    <br />        minimum and we returned from all the maximum distances the minimum distance and the nodes that holds it. <br />
    If there is a node from which the Dijkstra returned an empty dict, that is, there is no way to reach it from other nodes, that is, the graph is not linked. We       <br />      returned -1 and infinity 
 * plot_graph:plots the graph. <br />
-<br />
 -We also implemented auxiliary functions:
 *changeMaxVal:Updates to all weight of nodes to infinite <br />
 *Dijkstra:We implemented the Dijkstra algorithm the algorithm gets a nodes src and updates שccording to the algorithm the weight of <br />                                                 each nodes the minimum distance from src to the node,the algorithm returns a dictionary representing for each nodes  <br />                                                       the node that preceding in the path from the src to the node.<br />
