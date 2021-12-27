@@ -42,7 +42,11 @@ A class that implements the interface GraphAlgoInterface, object: DiGraph Graph.
 ***TestDiGraph:***  <br />
 A class to check the DiGraph by unittest <br />
 ***TestGraphAlgo:*** <br />
-A class to check the DiGraph by unittest
+A class to check the DiGraph by unittest  <br />
+***TestComperison:*** <br />
+A class that test the algorithms on A0-A5 file.  <br />
+***TestBigNUM:*** <br />
+A class that test the algorithms on 1000,10000,100000. 
 
 
 
