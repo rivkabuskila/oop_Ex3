@@ -46,7 +46,7 @@ A class to check the DiGraph by unittest  <br />
 ***TestComperison:*** <br />
 A class that test the algorithms on A0-A5 file.  <br />
 ***TestBigNUM:*** <br />
-A class that test the algorithms on 1000,10000,100000. 
+A class that test the algorithms on 1000,10000,100000.  <br />
 ***MyGui***  <br />
 This class displays the graph that is toned from the Jason file via the main in the class by the load function. <br />
 When we run the main the directed graph will be displayed: <br />
