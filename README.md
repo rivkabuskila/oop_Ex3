@@ -38,7 +38,8 @@ A class that implements the interface GraphAlgoInterface, object: DiGraph Graph.
 -We also implemented auxiliary functions: <br />
 *changeMaxVal:Updates to all weight of nodes to infinite <br />
 *isFound: checks if the nodes in list a are in list b. <br />
-*Dijkstra:We implemented the Dijkstra algorithm the algorithm gets a nodes src and updates שccording to the algorithm the weight of <br />                                                 each nodes the minimum distance from src to the node,the algorithm returns a dictionary representing for each nodes  <br />                                                       the node that preceding in the path from the src to the node.<br />
+*Dijkstra: <br />
+We implemented the Dijkstra algorithm the algorithm gets a nodes src and updates שccording to the algorithm the weight of each nodes the minimum distance from src to the node,the algorithm returns a dictionary representing for each nodes the node that preceding in the path from the src to the node.<br />
 ***TestDiGraph:***  <br />
 A class to check the DiGraph by unittest <br />
 ***TestGraphAlgo:*** <br />
