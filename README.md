@@ -53,8 +53,15 @@ When we run the main the directed graph will be displayed: <br />
 
 By pressing the center button you can see the center of the graph (painted in purple). <br />
 
-After we ran check0:
+After we ran check1:
+<br />
 ![image](https://user-images.githubusercontent.com/93676748/147505134-d0a5e029-1952-41ab-954e-b7c4af31dc3d.png)
+<br />
+After we ran check2:
+<br />
+![image](https://user-images.githubusercontent.com/93676748/147505237-e5ad860d-8ad4-43af-9ca1-eaebec42e473.png)
+
+
 
 
 
