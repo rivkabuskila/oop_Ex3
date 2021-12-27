@@ -35,8 +35,9 @@ A class that implements the interface GraphAlgoInterface, object: DiGraph Graph.
    If there is a node from which the Dijkstra returned an empty dict, that is, there is no way to reach it from other nodes, that is, the graph is not linked. We       <br />      returned -1 and infinity 
 * plot_graph:plots the graph. <br />
 * <br />
--We also implemented auxiliary functions:
+-We also implemented auxiliary functions: <br />
 *changeMaxVal:Updates to all weight of nodes to infinite <br />
+*isFound: checks if the nodes in list a are in list b. <br />
 *Dijkstra:We implemented the Dijkstra algorithm the algorithm gets a nodes src and updates שccording to the algorithm the weight of <br />                                                 each nodes the minimum distance from src to the node,the algorithm returns a dictionary representing for each nodes  <br />                                                       the node that preceding in the path from the src to the node.<br />
 ***TestDiGraph:***  <br />
 A class to check the DiGraph by unittest <br />
