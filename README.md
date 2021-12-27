@@ -63,8 +63,7 @@ After we ran check2:
 
 UML
 -----
-https://github.com/rivkabuskila/oop_Ex3/blob/main/UML.png
-
+![image](https://user-images.githubusercontent.com/93676748/147506541-6f9021f8-b7f3-468f-9f04-23e6e2f2b98e.png)
 
 
 
