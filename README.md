@@ -38,7 +38,7 @@ A class that implements the interface GraphAlgoInterface, object: DiGraph Graph.
 *changeMaxVal:Updates to all weight of nodes to infinite <br />
 *Dijkstra:We implemented the Dijkstra algorithm the algorithm gets a nodes src and updates שccording to the algorithm the weight of <br />                                                 each nodes the minimum distance from src to the node,the algorithm returns a dictionary representing for each nodes  <br />                                                       the node that preceding in the path from the src to the node.<br />
 **TestDiGraph:** <br />
-A class to check the by DiGraph unittest
+A class to check the by DiGraph unittest <br />
 **TestGraphAlgo:** <br />
 A class to check the by DiGraph unittest
 
